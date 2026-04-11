@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+# Jupyter
+.ipynb_checkpoints/
+# Data and results (if large, you may want to store in Drive instead)
+data/*.npz
+results/*.npy
+results/*.png
+final/*.html
+final/*.pdf
